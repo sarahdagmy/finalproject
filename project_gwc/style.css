@@ -1,0 +1,26 @@
+body {
+  background-image: url("backdrop.JPG");
+  background-size: cover;
+  background-repeat:   no-repeat;
+}
+
+/* head {
+  color: grey;
+  font-size: 0px;
+} */
+
+.main-navigation ul {
+  display: inline;
+  text-align: right;
+  font-size: 20px;
+}
+.main-navigation{
+  padding-top: 10px;
+  float: right;
+  margin: 20px;
+}
+
+.main-navigation a {
+  color: white;
+
+}
